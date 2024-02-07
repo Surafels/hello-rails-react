@@ -22,7 +22,7 @@
 
 # 📖 [Hello-rails-react-app] <a name="about-project"></a>
 
-The **Hello-rails-react-app** The "hello-rails-react" application is a web-based greeting generator built using the Ruby on Rails framework on the backend and React on the frontend. The app allows users to generate random greetings that can be used for various purposes like welcoming messages, birthday wishes, or general greetings.
+The **Hello-rails-react-app** application is a web-based greeting generator built using the Ruby on Rails framework on the backend and React on the frontend. The app allows users to generate random greetings that can be used for various purposes like welcoming messages, birthday wishes, or general greetings.
 
 ## 🛠 Built With <a name="built-with"></a>
 
